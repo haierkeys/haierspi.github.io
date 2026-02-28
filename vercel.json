@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "https://fns.diybeta.com"
+      "source": "/:path*",
+      "destination": "https://fns.diybeta.com*"
     }
   ]
 }
