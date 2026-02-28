@@ -1,8 +1,6 @@
 {
+  "trailingSlash": false,
   "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "https://fns.diybeta.com"
-    }
+    { "source": "/(.*)", "destination": "https://fns.diybeta.com" }
   ]
 }
