@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://fns.diybeta.com"
+      "destination": "http://192.3.249.53:8000"
     }
   ]
 }
